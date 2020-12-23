@@ -347,4 +347,9 @@ bt {
   font-weight: 600;
   margin: 15px 0;
 }
+ul.demo {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
 
