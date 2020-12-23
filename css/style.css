@@ -348,27 +348,3 @@ bt {
   margin: 15px 0;
 }
 
-/* Copyrights */
-
-#copyrights {
-  background:#BE8A8A;
-  padding: 20px 0;
-  text-align: center;
-}
-
-#copyrights p {
-  margin-bottom: 5px;
-  color: #fff;
-}
-
-#copyrights a {
-  color: #444141c;
-}
-
-.credits {
-  color: #fff;
-}
-ul.demo {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
